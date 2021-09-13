@@ -4,5 +4,7 @@
 3. 创建一个基于对话框的MFC应用程序.
 
 由于当时还没有学过数据库，人又菜，所以数据都是通过读写txt文件实现的。
+![20190724105029223](https://user-images.githubusercontent.com/51311844/133029217-d607b99a-7635-43da-b966-da72aae3bd97.png)
+
 
 https://blog.csdn.net/weixin_43644231/article/details/97110975
